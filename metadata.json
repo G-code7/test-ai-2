@@ -1,0 +1,6 @@
+{
+  "name": "Cree Estudio - Header Pill Responsive",
+  "description": "Header responsive estilo cápsula (pill) flotante con menú desplegable animado para móvil, efecto shrink con scroll y arquitectura de diseño Cree Estudio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
